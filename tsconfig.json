@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "target": "ES5",
+    "lib": ["esnext"],
+    "moduleResolution":"Node",
+    "allowSyntheticDefaultImports":true
+  }
+}
